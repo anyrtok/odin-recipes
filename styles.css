@@ -1,0 +1,19 @@
+* {
+    background-color: #ffe3c2;
+    color: #403930;
+    font-family: cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+.index-list {
+    font-style: oblique;
+}
+
+.recipe-img {
+    height: auto;
+    width: 20%;
+    border-radius: 5%;
+}
